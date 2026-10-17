@@ -40,31 +40,31 @@ Region: Asia Pacific (Mumbai) - ap-south-1
 ### VPCs
 
 
-![VPCs](screenshots/01-vpcs.png)
+![VPCs](screenshots/01-VPC.png.png)
 
 
 ### Subnets
 
 
-![Subnets](screenshots/02-subnets.png)
+![Subnets](screenshots/02-subnet.png)
 
 
 ### Internet Gateway
 
 
-![IGW](screenshots/03-igw.png)
+![IGW](screenshots/03-igw.png.png)
 
 
 ### Peering Connection
 
 
-![Peering](screenshots/04-peering-active.png)
+![Peering](screenshots/04-peering-active.png.png)
 
 
 ### Route Tables
 
 
-![Route Tables](screenshots/05-route-tables.png)
+![Route Tables](screenshots/05-routetables.png)
 
 
 
