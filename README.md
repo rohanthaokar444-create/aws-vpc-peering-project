@@ -84,28 +84,28 @@ Peering needs a route on both sides. Without the return route, traffic goes out 
 ### Security Groups
 
 
-![Security Groups](screenshots/06-security-groups.png)
+![Security Groups](screenshots2/06-security-groups.png)
 
 
 
 ### EC2 Instances
 
 
-![EC2 Instances](screenshots/07-ec2-instances.png)
+![EC2 Instances](screenshots2/07-ec2-instances.png)
 
 
 
 ### Connectivity Test: Public to Private-A
 
 
-![Reachability A](screenshots/08a-reachability-privateA.png)
+![Reachability A](screenshots2/08a-reachability-privateA.png)
 
 
 
 ### Connectivity Test: Public to Private-B (via VPC Peering)
 
 
-![Reachability B](screenshots/08b-reachability-privateB.png)
+![Reachability B](screenshots2/08b-reachability-privateB.png)
 
 
 
